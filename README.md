@@ -17,7 +17,7 @@
 <!-- Sauron / Eye energy -->
 <img src="https://i.pinimg.com/originals/21/bf/d0/21bfd0e561a1b4bdeec65bca21b7ba7d.gif" width="420" alt="gandalf"/>
 
-> *"There is always a pattern in the noise… if you stare long enough."*
+> *"A wizard is never late, nor is he early. He pushes his commits precisely when he means to."*
 
 </div>
 
@@ -35,7 +35,7 @@
 - 📄 4 peer-reviewed publications
 - 🏆 1st Prize, International Day of Photonics 2025
 - 🧿 IEEE & SPIE student member
-- 🌱 Open to **internship / MSc thesis** in biomedical spectroscopy or intelligent vision
+- 🌱 Open to **internship / MSc thesis** in Computer vision or Biomedical imaging
 
 > *Most failures are just models that haven’t been trained long enough.*
 
