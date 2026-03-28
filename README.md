@@ -14,8 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=nosainwe&style=for-the-badge&color=7c3aed" />
 </p>
 
-<!-- LOTR-inspired wizard GIF -->
-<img src="https://media.giphy.com/media/zIwIWQx12YNEI/giphy.gif" width="380" alt="Gandalf you shall not pass"/>
+<!-- LOTR Gandalf (clean iconic version) -->
+<img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="380" alt="Gandalf"/>
 
 > *"A wizard is never late, nor is he early. He pushes his commits precisely when he means to."*
 
@@ -23,7 +23,6 @@
 
 ---
 
-<!-- About section with coding gif side by side -->
 <table>
 <tr>
 <td width="55%">
@@ -41,7 +40,6 @@
 </td>
 <td width="45%" align="center">
 
-<!-- Lo-fi coder / coffee gif -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 <br/>
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" alt="coffee gif"/>
@@ -106,8 +104,8 @@
 
 <div align="center">
 
-<!-- HP-style closing gif -->
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="320" alt="magic coding"/>
+<!-- Harry Potter wand / magic (clean, subtle) -->
+<img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="320" alt="harry potter magic"/>
 
 *"It does not do to dwell on dreams and forget to commit."*
 
