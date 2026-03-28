@@ -15,7 +15,7 @@
 </p>
 
 <!-- Sauron / Eye energy -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" alt="eye of sauron"/>
+<img src="https://i.pinimg.com/originals/21/bf/d0/21bfd0e561a1b4bdeec65bca21b7ba7d.gif" width="420" alt="gandalf"/>
 
 > *"There is always a pattern in the noise… if you stare long enough."*
 
