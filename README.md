@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e3a5f,100:2563eb&height=220&section=header&text=Lumos%20✨&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Nosa%20Peter%20Inwe%20%7C%20Photonics%20%26%20Intelligent%20Vision&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e3a5f,100:2563eb&height=220&section=header&text=Lumos%20%E2%9C%A8&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Nosa%20Peter%20Inwe%20%7C%20Photonics%20%26%20Intelligent%20Vision&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Lumos+—+light%2C+but+make+it+photons.;Not+all+those+who+wander+are+lost...+some+are+just+debugging.;Our+choices+define+us.+Mine+lean+towards+PyTorch.;Even+the+smallest+signal+can+shift+everything.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Lumos+%E2%80%94+light%2C+but+make+it+photons.;Not+all+those+who+wander+are+lost...+some+are+just+debugging.;Our+choices+define+us.+Mine+lean+towards+PyTorch.;Even+the+smallest+signal+can+shift+everything.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nosainwe&style=flat-square&color=2563eb" />
 
@@ -14,10 +14,10 @@
 
 ### 🪄 About Me
 
-- 🎓 Erasmus Mundus MSc in **Intelligent Photonics for Security, Reliability & Safety**
-- 📍 University of Eastern Finland · specialising in **Biometrics & Intelligent Vision**
+- 🎓 Erasmus Mundus MSc in **Intelligent Photonics for Security, Reliability and Safety**
+- 📍 University of Eastern Finland, specialising in **Biometrics and Intelligent Vision**
 - 🔬 Working where optics meets deep learning
-- 📄 4 peer-reviewed publications · IEEE & SPIE member
+- 📄 4 peer-reviewed publications · IEEE and SPIE member
 - 🏆 1st Prize, International Day of Photonics 2025
 - 🌱 Open to **internship / MSc thesis** in biomedical spectroscopy or intelligent vision
 
@@ -86,7 +86,7 @@
 
 <br/><br/>
 
-> *All we have to decide is what to do with the time we’re given — sometimes that means fixing one last bug.*
+> *All we have to decide is what to do with the time we are given. Sometimes that means fixing one last bug.*
 
 <br/>
 
