@@ -30,7 +30,7 @@
 ### 🧙 About Me
 
 - 🎓 Erasmus Mundus MSc in **Intelligent Photonics (iPSRS)**
-- 📍 **University of Eastern Finland**, Joensuu — Biometrics & Intelligent Vision
+- 📍 **University of Eastern Finland**, Joensuu - Biometrics & Intelligent Vision
 - 🔬 Focused on signal extraction, detection systems, and vision models under real constraints
 - 📄 4 peer-reviewed publications
 - 🏆 1st Prize, International Day of Photonics 2025
