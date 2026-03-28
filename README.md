@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e3a5f,100:2563eb&height=220&section=header&text=Lumos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Nosa%20Peter%20Inwe%20%7C%20Photonics%20%26%20Intelligent%20Vision&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e3a5f,100:2563eb&height=220&section=header&text=Lumos%20✨&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Nosa%20Peter%20Inwe%20%7C%20Photonics%20%26%20Intelligent%20Vision&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Lumos%3A+illuminating+latent+spaces.;Speak+friend+and+enter+the+repository.;Not+all+who+wander+are+lost%3B+some+are+stuck+in+a+local+minimum.;It+does+not+do+to+dwell+on+dreams+and+forget+to+save+your+weights.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Lumos+—+light%2C+but+make+it+photons.;Not+all+those+who+wander+are+lost...+some+are+just+debugging.;Our+choices+define+us.+Mine+lean+towards+PyTorch.;Even+the+smallest+signal+can+shift+everything.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nosainwe&style=flat-square&color=2563eb" />
 
@@ -12,23 +12,22 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding at night"/>
 
-### The Marauder's Map to My Work
+### 🪄 About Me
 
-Deep learning rarely behaves on the first try. I spend most of my time forcing PyTorch models to converge and trying to bridge the physical world of optics with intelligent vision. It often feels like wandless magic when the matrix multiplications finally align.
+- 🎓 Erasmus Mundus MSc in **Intelligent Photonics for Security, Reliability & Safety**
+- 📍 University of Eastern Finland · specialising in **Biometrics & Intelligent Vision**
+- 🔬 Working where optics meets deep learning
+- 📄 4 peer-reviewed publications · IEEE & SPIE member
+- 🏆 1st Prize, International Day of Photonics 2025
+- 🌱 Open to **internship / MSc thesis** in biomedical spectroscopy or intelligent vision
 
-- Erasmus Mundus MSc scholar in Intelligent Photonics for Security, Reliability & Safety (iPSRS).
-- Currently studying at the University of Eastern Finland, specialising in biometrics.
-- Author of 4 peer-reviewed publications across IEEE and SPIE.
-- Winner of the 1st Prize for the International Day of Photonics 2025.
-- Actively seeking an internship or MSc thesis role involving biomedical spectroscopy.
-
-> *"Happiness can be found, even in the darkest of times, if one only remembers to print the loss function."*
+> *Bravery is nice. Converging models are nicer.*
 
 <br clear="right"/>
 
 ---
 
-### The Arsenal
+### 🛠 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,7 +42,7 @@ Deep learning rarely behaves on the first try. I spend most of my time forcing P
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nosainwe&show_icons=true&theme=tokyonight&border_color=2563eb&title_color=2563eb&icon_color=2563eb&count_private=true&hide_border=false" height="175"/>
@@ -56,7 +55,7 @@ Deep learning rarely behaves on the first try. I spend most of my time forcing P
 
 ---
 
-### One Snake to Rule Them All
+### 🐍 One Snake to Rule Them All
 
 <div align="center">
 <picture>
@@ -64,12 +63,11 @@ Deep learning rarely behaves on the first try. I spend most of my time forcing P
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nosainwe/nosainwe/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/nosainwe/nosainwe/output/github-contribution-grid-snake.svg">
 </picture>
-<p><i>Forged in the fires of late-night commits.</i></p>
 </div>
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -88,8 +86,7 @@ Deep learning rarely behaves on the first try. I spend most of my time forcing P
 
 <br/><br/>
 
-> *"All we have to decide is what to do with the computing power that is given to us."*
-> — Gandalf, reviewing a pull request
+> *All we have to decide is what to do with the time we’re given — sometimes that means fixing one last bug.*
 
 <br/>
 
