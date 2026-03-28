@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dark Mordor-style header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:3b0a0a,100:7f1d1d&height=220&section=header&text=Nosa%20Peter%20Inwe&fontSize=42&fontColor=e5e5e5&animation=fadeIn&fontAlignY=40&desc=Intelligent%20Photonics%20%7C%20Computer%20Vision%20%7C%20ML&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:3b0a0a,100:7f1d1d&height=220&section=header&text=Nosa%20Peter%20Inwe&fontSize=42&fontColor=e5e5e5&animation=fadeIn&fontAlignY=40&desc=Intelligent%20Photonics%20%7C%20Computer%20Vision%20%7C%20ML&descAlignY=58&descSize=8" width="100%"/>
 
 <!-- Darker typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3200&pause=1200&color=DC2626&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Not+all+those+who+wander+are+lost...;...some+are+hunting+for+signal+in+noise.;Small+models.+Large+impact." />
