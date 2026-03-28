@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- Animated dragon wave header -->
-<img src="https://capsule-render.vercel.app/api?type=dragon&color=0:1e3a5f,50:2563eb,100:7c3aed&height=220&section=header&text=Nosa%20Peter%20Inwe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Intelligent%20Photonics%20%7C%20Computer%20Vision%20%7C%20ML&descAlignY=58&descSize=16" width="100%"/>
+<!-- Dark Mordor-style header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:3b0a0a,100:7f1d1d&height=220&section=header&text=Nosa%20Peter%20Inwe&fontSize=42&fontColor=e5e5e5&animation=fadeIn&fontAlignY=40&desc=Intelligent%20Photonics%20%7C%20Computer%20Vision%20%7C%20ML&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- Typewriter animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Not+all+those+who+wander+are+lost...;...but+I+do+have+a+GitHub+to+prove+it." alt="Typing SVG" />
+<!-- Darker typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3200&pause=1200&color=DC2626&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Not+all+those+who+wander+are+lost...;...some+are+hunting+for+signal+in+noise.;Small+models.+Large+impact." />
 
 <!-- Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/nosa-inwe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=25hrRsoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://nosainwe.github.io"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nosainwe&style=for-the-badge&color=7c3aed" />
+  <a href="https://www.linkedin.com/in/nosa-inwe/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=25hrRsoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1f2937?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://nosainwe.github.io"><img src="https://img.shields.io/badge/Portfolio-7f1d1d?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nosainwe&style=for-the-badge&color=7f1d1d" />
 </p>
 
-<!-- LOTR Gandalf (clean iconic version) -->
-<img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="380" alt="Gandalf"/>
+<!-- Sauron / Eye energy -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" alt="eye of sauron"/>
 
-> *"A wizard is never late, nor is he early. He pushes his commits precisely when he means to."*
+> *"There is always a pattern in the noise… if you stare long enough."*
 
 </div>
 
@@ -31,18 +31,23 @@
 
 - 🎓 Erasmus Mundus MSc in **Intelligent Photonics (iPSRS)**
 - 📍 **University of Eastern Finland**, Joensuu — Biometrics & Intelligent Vision
-- 🔬 Building at the intersection of optics and deep learning: YOLO pipelines, NIR spectral classifiers, biomedical imaging
+- 🔬 Focused on signal extraction, detection systems, and vision models under real constraints
 - 📄 4 peer-reviewed publications
 - 🏆 1st Prize, International Day of Photonics 2025
 - 🧿 IEEE & SPIE student member
-- 🌱 Seeking **summer internship / MSc thesis** in biomedical spectroscopy or intelligent vision
+- 🌱 Open to **internship / MSc thesis** in biomedical spectroscopy or intelligent vision
+
+> *Most failures are just models that haven’t been trained long enough.*
 
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<!-- darker coding vibe -->
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
+
 <br/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" alt="coffee gif"/>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
 
 </td>
 </tr>
@@ -53,15 +58,15 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-7f1d1d?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1f2937?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-1f2937?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
 ---
@@ -69,12 +74,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nosainwe&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&icon_color=2563eb&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosainwe&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=7c3aed" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nosainwe&show_icons=true&theme=tokyonight&border_color=7f1d1d&title_color=7f1d1d&icon_color=dc2626&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosainwe&layout=compact&theme=tokyonight&border_color=7f1d1d&title_color=7f1d1d" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosainwe&theme=tokyonight&border=7c3aed&ring=2563eb&fire=7c3aed&currStreakLabel=2563eb"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosainwe&theme=tokyonight&border=7f1d1d&ring=dc2626&fire=7f1d1d&currStreakLabel=dc2626"/>
 </p>
 
 ---
@@ -104,11 +109,11 @@
 
 <div align="center">
 
-<!-- Harry Potter wand / magic (clean, subtle) -->
-<img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="320" alt="harry potter magic"/>
+<!-- subtle dark closing -->
+<img src="https://media.giphy.com/media/2zPKmdCg8HWRfrPgTJ/giphy.gif" width="320"/>
 
-*"It does not do to dwell on dreams and forget to commit."*
+*"Even the smallest signal can change the course of a system."*
 
-<img src="https://capsule-render.vercel.app/api?type=dragon&color=0:7c3aed,50:2563eb,100:1e3a5f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
 
 </div>
