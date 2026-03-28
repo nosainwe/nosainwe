@@ -110,7 +110,7 @@
 <div align="center">
 
 <!-- subtle dark closing -->
-<img src="https://media.giphy.com/media/2zPKmdCg8HWRfrPgTJ/giphy.gif" width="320"/>
+<img src="https://media1.tenor.com/m/rbhak--xAzwAAAAd/follow-the-white-rabbit.gif" width="320"/>
 
 *"Even the smallest signal can change the course of a system."*
 
