@@ -14,7 +14,7 @@
 ### 👋 About Me
 
 - 🎓 Erasmus Mundus MSc student in **Intelligent Photonics for Security, Reliability & Safety (iPSRS)**
-- 📍 Currently at **University of Eastern Finland**, Joensuu — specialising in **Biometrics & Intelligent Vision**
+- 📍 Currently at **University of Eastern Finland**, Joensuu - specialising in **Biometrics & Intelligent Vision**
 - 🔬 Building at the intersection of optics and deep learning: YOLO pipelines, NIR spectral classifiers, biomedical imaging
 - 📄 4 peer-reviewed publications | IEEE & SPIE student member
 - 🏆 1st Prize, International Day of Photonics 2025
