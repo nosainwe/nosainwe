@@ -98,7 +98,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [DETR Object Detection](https://github.com/nosainwe/detr-object-detection) | End-to-end detection with Detection Transformers | PyTorch, COCO |
+| [DETR Object Detection]([https://github.com/nosainwe/detr-object-detection](https://github.com/nosainwe/computer-vision-projects/tree/main/detr-object-detection) | End-to-end detection with Detection Transformers | PyTorch, COCO |
 | [CCTV Anomaly Detection](https://github.com/nosainwe/computer-vision-projects/tree/main/cctv-anomaly-detection) | Unsupervised ConvLSTM autoencoder on surveillance video | PyTorch, ConvLSTM |
 | [SAM Zero-Shot Segmentation](https://github.com/nosainwe/sam-segmentation) | Meta's Segment Anything for interactive segmentation | PyTorch, SAM |
 | [Aerial Asset Detection](https://github.com/nosainwe/computer-vision-projects/tree/main/military-assets-detection) | YOLO11n at 1024x1024 for small object detection | YOLO, OpenCV |
