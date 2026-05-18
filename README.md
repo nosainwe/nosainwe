@@ -98,12 +98,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [DETR Object Detection]([https://github.com/nosainwe/detr-object-detection](https://github.com/nosainwe/computer-vision-projects/tree/main/detr-object-detection) | End-to-end detection with Detection Transformers | PyTorch, COCO |
+| [DETR Object Detection](https://github.com/nosainwe/computer-vision-projects/tree/main/detr-object-detection) | End-to-end detection with Detection Transformers | PyTorch, COCO |
 | [CCTV Anomaly Detection](https://github.com/nosainwe/computer-vision-projects/tree/main/cctv-anomaly-detection) | Unsupervised ConvLSTM autoencoder on surveillance video | PyTorch, ConvLSTM |
-| [SAM Zero-Shot Segmentation](https://github.com/nosainwe/sam-segmentation) | Meta's Segment Anything for interactive segmentation | PyTorch, SAM |
+| [SAM Zero-Shot Segmentation](https://github.com/nosainwe/computer-vision-projects/tree/main/sam-segmentation) | Meta's Segment Anything for interactive segmentation | PyTorch, SAM |
 | [Aerial Asset Detection](https://github.com/nosainwe/computer-vision-projects/tree/main/military-assets-detection) | YOLO11n at 1024x1024 for small object detection | YOLO, OpenCV |
-| [NIR Cartilage Classifier](https://github.com/nosainwe) | Spectral ML classifier for biomedical tissue analysis | scikit-learn, NIR |
-| [OpenAR Vision Bridge](https://github.com/nosainwe/openar-vision-bridge) | YOLO on webcam distilled into 128x64 OLED HUD | YOLO, Edge AI |
+| [NIR Cartilage Classifier](https://github.com/nosainwe/Biomedical-projects/tree/main/nir-cartilage-classifier) | Spectral ML classifier for biomedical tissue analysis | scikit-learn, NIR |
+| [OpenAR Vision Bridge](https://github.com/nosainwe/computer-vision-projects/tree/main/openar-vision-bridge) | YOLO on webcam distilled into 128x64 OLED HUD | YOLO, Edge AI |
 
 ---
 
